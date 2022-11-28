@@ -30,3 +30,6 @@ Português,Hunsrik,Tipo,Notas
 abadonar,"abandoneere, uffgewe",verbo,
 abadia,Abtei,subst. fem,
 ```
+
+## O site não atualiza mesmo após contribuir?
+Basta, então, limpar a memória em cache do seu navegador (não é necessário limpar o histórico ou outros, apenas o cache).
