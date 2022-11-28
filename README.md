@@ -1,5 +1,5 @@
 ## Como contribuir
-* Lembra-te de inserir tudo em ordem alfabética, sê civilizado!
+* Lembra-te de inserir tudo em ordem alfabética (na língua de origem), sê civilizado!
 
 * Passo 1: Visite o site https://github.com/hunsrik/hunsrik.github.io/
 * Passo 2: Aceda a pasta 'data' e busque por arquivos como 'pt-hrx.csv' e 'en-hrx.csv'.
